@@ -1,7 +1,7 @@
 import pyautogui
 import time
 
-comments = ["Ryt Naa?","This is my bot","Want to spam someone?","DM Sunil Maharana","Just Kidding :P","Just a crazy Programmer ;)"]
+comments = ["Hey","This is my bot","Spamming......","This is Fun","Try this! ","Just a crazy Programmer"]
 
 time.sleep(5)
 
